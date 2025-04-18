@@ -2,21 +2,17 @@
 基于飞腾平台的Type-1型Hypervisor移植优化
 
 ### 描述
-Type-1型Hypervisor在嵌入式领域以及ARM架构仍处于研究、开发和化阶段。因此，基于飞腾平台（ARMv8架构）的Type-1 Hypervisor的应用探索，有很大的创新空间，适合展示原创性
+Type-1型Hypervisor在嵌入式领域以及ARM架构仍处于研究、开发和优化阶段。因此，基于飞腾平台（ARMv8架构）的Type-1 Hypervisor的应用探索，有很大的创新空间，适合展示原创性。
 
 随着信创产业深化发展，国产处理器对虚拟化技术提出了更高要求，需要兼顾性能、安全和自主可控。飞腾CPU兼容ARMv8指令集，具备硬件级安全特性，为构建安全高效的虚拟化平台提供了良好基础。
 
 本赛题将通过飞腾处理器平台与Type-1型Hypervisor的协同应用，探索在嵌入式系统中实现多内核、安全隔离及混合关键任务部署的可行路径，为构建新型智能终端系统提供实践基础。
 
 ### 导师
-- 郭霞
-- guoxia1873@phytium.com.cn
-
-- 郭丁丁
-- guodingding1657@phytium.com.cn
+- 郭丁丁 ： guodingding1657@phytium.com.cn
   
-- 刘晶晶
-- liujingjing1911@phytium.com.cn
+- 刘晶晶 ： liujingjing1911@phytium.com.cn
+- 郭霞 ： guoxia1873@phytium.com.cn
 
 ### 支持单位
 飞腾信息技术有限公司
