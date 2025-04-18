@@ -78,5 +78,6 @@ Type-1型Hypervisor在嵌入式领域以及ARM架构仍处于研究、开发和�
  
 ### 备注
 如需咨询赛题、申请开发板和加入赛题专项答疑群等其他相关事项，可添加赛事运营人员郭丁丁微信，添加好友时请注明“OS功能挑战赛+学校+姓名”。
+
 ![dfb88bfc-6789-4a9e-83b3-509c22d90eea](https://github.com/user-attachments/assets/fad5a542-8711-48d6-97c9-e37426a91e8e)
 
